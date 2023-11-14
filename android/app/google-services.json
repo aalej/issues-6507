@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "537651013567",
+    "firebase_url": "https://aalej-gh-tools-6507-default-rtdb.firebaseio.com",
+    "project_id": "aalej-gh-tools-6507",
+    "storage_bucket": "aalej-gh-tools-6507.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537651013567:android:431257571840001464e30a",
+        "android_client_info": {
+          "package_name": "com.example.issues_6507"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj7T20xYKSAt2UkzRbwEDxA8NVNIvkaDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
